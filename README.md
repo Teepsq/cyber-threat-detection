@@ -32,6 +32,3 @@ Run the notebook: cyber_threat_detection_final.ipynb
 - Confusion Matrix
 - ROC AUC Curve
 - Optimized threshold for 99% accuracy+
-
-## Author
-Generated with assistance from an AI model.
